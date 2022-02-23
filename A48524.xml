@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King at Kensington, January 13, 1694/5 by J. Lambe ...</title>
+            <author>Lambe, John, 1648 or 9-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48524</idno>
+            <idno type="STC">Wing L226</idno>
+            <idno type="STC">ESTC R3112</idno>
+            <idno type="EEBO-CITATION">13672513</idno>
+            <idno type="OCLC">ocm 13672513</idno>
+            <idno type="VID">101168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 792:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King at Kensington, January 13, 1694/5 by J. Lambe ...</title>
+                  <author>Lambe, John, 1648 or 9-1708.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesty's special command."</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Job V, 2 --  Sermons.</term>
+               <term>Envy --  Sermons.</term>
+               <term>Envy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101168:1"/>
+            <pb facs="tcp:101168:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the KING, AT KENSINGTON, <hi>January</hi> 13. 1694/5.</p>
+            <p>By <hi>J. LAMBE,</hi> D. D. Dean of <hi>Ely,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>Publiſhed by His Majeſty's ſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi>
+            </p>
+            <p>Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop's-Head</hi> in St. <hi>Paul</hi>'s Church-Yard. 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:101168:2"/>
+            <pb n="1" facs="tcp:101168:2"/>
+            <epigraph>
+               <bibl>JOB v. 2. The latter part of the Verſe.</bibl>
+               <q>— <hi>And Envy ſlayeth the filly one.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <hi>PLUTARCH</hi> ſays of Human Paſſions, that they are not Evil in themſelves, but <hi>Good Affections,</hi> which Nature has fur<g ref="char:EOLhyphen"/>niſh'd us withal, for great and noble Purpoſes.<note place="margin">De Virt. &amp; Vit.</note>
+            </p>
+            <p>Right Reaſon, Wiſdom, and Diſcretion, are our principal Faculties, 'tis true; Theſe ought to Command, and give the Rule; yet all our other Powers and Paſſions have their proper place, and are deſign'd to ſignifie and expreſs, to attend and follow the Reſolution of our Judg<g ref="char:EOLhyphen"/>ment, and to exert themſelves ſo far as Reaſon ſhall direct.</p>
+            <p>And were this Order well obſerv'd, how bleſt, how happy ſhould we be? Our Motions all Harmonious, our Minds ſerene, our Ends well choſen, our Methods appoſite, and we ſhould be eaſie under all Events.</p>
+            <p>But oh! how ſhamefully do we invert the Order of our Nature. How baſely do we force our Reaſon, and make it truckle to a preſent
+<pb n="2" facs="tcp:101168:3"/>Pleaſure? How eaſily do we ſuffer an Inteſtine War, and ſubmit to a perpetual Claſhing, Tu<g ref="char:EOLhyphen"/>mult, and Diſorder in our ſelves.</p>
+            <p>If Brutes could underſtand, they would re<g ref="char:EOLhyphen"/>joyce in their Condition of Neceſſity, and de<g ref="char:EOLhyphen"/>ſpiſe our Eſtate of Liberty and Reaſon, when they obſerve how fatally we abuſe them: How we Love and Hate, Deſire and Shun, are Eager and Impatient, Vehement and Furious, beyond the Direction of our Reaſon, or the Value of the Object.</p>
+            <p>And thus, by Indulging to our Paſſions, we deſtroy our Happineſs; as well in all other In<g ref="char:EOLhyphen"/>ſtances, as in thoſe of my Text, for Malice <hi>Killeth</hi> the <hi>Fooliſh</hi> Man; and envy <hi>ſlayeth</hi> the <hi>ſilly</hi> one.</p>
+            <p>I ſhall not trouble you with an account of the Wiſdom, and Antiquity, of this Book of <hi>Job;</hi> the truth of the Hiſtory, its Credit and Eſteem; the vaſtneſs of his Riches, and the Proſperity of his Family; the Malice of the Devil, and the ſad Cataſtrophe of his Affairs. It is enough that I obſerve the occaſion of the Words, and then I ſhall proceed to the Argument it ſelf.</p>
+            <p>Chapter the third, at the firſt Verſe, we find this Holy Saint in great Affliction on every ſide;
+<pb n="3" facs="tcp:101168:3"/>and ſo much the more as he was deſerted, or, which is worſe,<note place="margin">
+                  <hi>Chap.</hi> 6.14, &amp;c.</note> reproach'd and upbraided by his pretended Friends. For <hi>Eliphaz</hi> the <hi>Temanite,</hi> tho' he ſeems to pity and adviſe him, yet he loads him with Calumny,<note place="margin">
+                  <hi>Cap.</hi> 2.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and lays all manner of Evil to his Charge. That <hi>Ploughing Iniquity, and Sowing Vanity, he had Reaped the ſame,</hi> (Chap. 4.8.) That, <hi>by the blaſt of God he periſhed, and by the breath of his Noſtrils he was conſumed,</hi> Ver. 9.</p>
+            <p>This is his Accuſation, and this the Comfort they adminiſter. But as for the Proof, it ap<g ref="char:EOLhyphen"/>pears that he did not ſpeak theſe things upon his Knowledge, or upon the Teſtimony of cre<g ref="char:EOLhyphen"/>dible Men; but reſolves, from a very uncertain Topick, that <hi>Job</hi> muſt needs be ſuch an one, becauſe <hi>he was Afflicted. Remember, I pray thee,</hi> (Ver. 7.) <hi>who ever Periſhed being Innocent, or where were the Righteous cut off.</hi> And, <hi>Call now,</hi> (Chap. 5. at the 1 ſt. Verſe) <hi>if there be any that will anſwer Thee, and to which of the Saints wilt thou turn? For Malice killeth the fooliſh Man, and Envy ſlayeth the ſilly one.</hi>
+            </p>
+            <p>And thus he inſults this Holy Sufferer, and would have him believe, that he was this Ma<g ref="char:EOLhyphen"/>licious Man whoſe Vice had kill'd him, and this Envious Man whoſe Spite had ſlain him.</p>
+            <pb n="4" facs="tcp:101168:4"/>
+            <p>Becauſe Ambition and Envy are the common Vices of a plentiful Fortune, he concludes that <hi>Job</hi> muſt needs have been guilty of them, and is therefore Puniſhed.</p>
+            <p>But leaving <hi>Job</hi> to juſtifie himſelf, as he does by appealing to God, <hi>Thou knoweſt that I am not Wicked, and that there is none can deliver out of thine hand,</hi> (Ch. 10.7.) And leaving him alſo to anſwer his Friend, and expoſe his Reaſonings; <hi>For God deſtroys as well the Perfect as the Wicked,</hi> as he proves at large, <hi>Chap.</hi> 9.22, &amp;c. Leaving, I ſay, the Diſpute to them, the Maxim of the Text remains a Truth, which neither part de<g ref="char:EOLhyphen"/>nied, which all muſt allow, That, <hi>Envy ſlayeth the ſilly One.</hi>
+            </p>
+            <p>Theſe Words are one entire unlimited Pro<g ref="char:EOLhyphen"/>poſition, <hi>viz.</hi> That, <hi>Envy ſlayeth the Envious Man.</hi>
+            </p>
+            <p>And that we may more clearly underſtand it, and be more ſenſibly affected with it, I ſhall proceed, with all poſſible brevity, in this fol<g ref="char:EOLhyphen"/>lowing Method.</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+                  <hi>Firſt,</hi> I will endeavour to explain the Vice, or what we underſtand by <hi>Envy,</hi> and when a Man may be ſaid to be an Envious Man.</item>
+               <pb n="5" facs="tcp:101168:4"/>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/>
+                  <hi>Secondly,</hi> I ſhall enquire into the Truth of his Character, or how juſtly it is ſaid of an En<g ref="char:EOLhyphen"/>vious Man, that he is a <hi>ſilly one.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/>
+                  <hi>Thirdly,</hi> I ſhall conſider the fatal Effects of this <hi>Fooliſh</hi> Vice, or how certainly it will deſtroy him; for, Envy <hi>ſlayeth</hi> the ſilly one.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/>
+                  <hi>Fourthly</hi> and <hi>Laſtly,</hi> by way of Application, I ſhall humbly propoſe the proper Remedies of ſo great an Evil.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> I begin with the firſt of theſe, and ſhall endeavour to explain the Vice, or what is un<g ref="char:EOLhyphen"/>derſtood by <hi>Envy,</hi> and when a Man may be ſaid to be an <hi>Envious</hi> Man.</p>
+            <p>Now, <hi>Envy</hi> is a Regret of Mind, or an in<g ref="char:EOLhyphen"/>ward trouble at the Proſperity of another, <hi>eâ ra<g ref="char:EOLhyphen"/>tione,</hi> or for that reaſon only, becauſe he is ſuc<g ref="char:EOLhyphen"/>ceſsful in the World.</p>
+            <p>There are a great many Vices, as Ambition, Malice, Pride, and others, that carry a reſem<g ref="char:EOLhyphen"/>blance of it, and are related to it; but they ei<g ref="char:EOLhyphen"/>ther proceed from a different Principle, or ter<g ref="char:EOLhyphen"/>minate in ſome particular Object: They are con<g ref="char:EOLhyphen"/>fin'd and limited, but <hi>Envy</hi> is <hi>Indefinite.</hi> Thus Malice is a diſguſt to a particular Perſon or Company, upon ſuppoſition of Injury received;
+<pb n="6" facs="tcp:101168:5"/>an Ambitious Man would attain to ſuch a de<g ref="char:EOLhyphen"/>gree of Honour as he propoſes to himſelf, but is well pleaſed that others ſhould enjoy the reſt. A Proud Man would be reſpected above his Merit, but is content, if ye will value him as he deſires, to allow you ſomething in return.</p>
+            <p>But the Principle, the formal Reaſon of this ſingular Vice of Envy, is a Repining, a Gnaw<g ref="char:EOLhyphen"/>ing, a Trouble in the Mind, that any Man ſhould proſper.</p>
+            <p>Whether his Enjoyments are any prejudice to him that envies them, or whether they are not; whether he has the ſame, or greater advantages in the World, or whether he has not; it is e<g ref="char:EOLhyphen"/>nough that his Neighbour is happy, he is not able to endure it.</p>
+            <p>Thus <hi>Plutarch</hi> has defin'd it by, <hi>Spite Indefinite,</hi> and ſays, <hi>That it reſembles the Diſeaſe call'd</hi> Opth<g ref="char:EOLhyphen"/>thalmia, <hi>a Diſeaſe in the Eye, which makes it un<g ref="char:EOLhyphen"/>able to endure the brightneſs of any Light whatever.</hi> And with him <hi>Tully,</hi> and all Philo<g ref="char:EOLhyphen"/>ſophers agree,<note place="margin">Invidentia eſt aegritudo ſuſcepta propter alterius res ſecundas, quae nihil noceant invidenti. <hi>Tuſc. Quaeſ. l.</hi> 4.</note> That the Specifick diffe<g ref="char:EOLhyphen"/>rence of Envy is Impatience at the Proſperity of another as ſuch, or tho' it be in no wiſe prejudicial to him that en<g ref="char:EOLhyphen"/>vies it.</p>
+            <pb n="7" facs="tcp:101168:5"/>
+            <p>This is the Vice of Envy; and it is more or leſs predominant and rancorous, according to the Tempers of Men, and the Indulgence that it finds.</p>
+            <p>Sometimes it ſpits its Venom at the Throne of Heaven, and ſtrikes at the Majeſty of God Himſelf. Sometimes it is exerciſed upon Kings and Princes, and Perſons of the higheſt Rank; yet Inſtances of ſuch Extravagance are more rare, but the uſual Objects of our Envy, are thoſe of our own Condition; thoſe with whom, as we think, we may pretend an equality, not far above us nor below us, but ſuch as are upon or near our Level. The extremities of Fortune,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Simplic. in Epict.
+<p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Id.</p>
+               </note> as the Philoſopher ob<g ref="char:EOLhyphen"/>ſerves, are for the moſt part free from Envy. Mighty Acquiſitions, ſuch as we can never hope for, are apt to extinguiſh it; and ſuch an in<g ref="char:EOLhyphen"/>feriour Station as we are not likely to fall into, cannot eaſily provoke it.</p>
+            <p>The uſual Objects then of Spite and Envy, are thoſe of the ſame Condition and Pretences; thoſe that are in our Eye, thoſe whom we emu<g ref="char:EOLhyphen"/>late, and with whom we contend and ſtrive.</p>
+            <p>This is the Vice, and this is the Sphere of its activity.</p>
+            <pb n="8" facs="tcp:101168:6"/>
+            <p>And, indeed, there is not any evil habit to which we are more inclin'd, than to this of En<g ref="char:EOLhyphen"/>vying the felicity of our Neighbour; nor is there any more pernicious. <hi>Plerique ſunt Invidi,</hi> ſays <hi>Tully,</hi>
+               <note place="margin">De Orat.</note> 
+               <hi>maximèque eſt hoc commune vitium.</hi> Moſt Men are envious in ſome degree; nor is there any Vice ſo general as this.</p>
+            <p>Nothing therefore can be more expedient than to expoſe this Monſter, this corruption. of Hu<g ref="char:EOLhyphen"/>man Nature, in its proper Colours.</p>
+            <p>For tho' all Men are inclin'd to it, as I ſaid, yet none can endure to own it, it is ſo contrary to Humanity, Friendſhip, Society, and Good Will, that every one deteſts the Imputation. But nevertheleſs, it is of ſo corroding a Nature, that it eats thro' the Heart, it makes its way thro' all its coverings, and, in ſpite of all endeavours, it will break forth into the open Air, it may eaſily be diſcern'd. For,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Sometimes it appears without diſguiſe; the Paſſion of the Envious overcomes him, and he drops his Guard, flies out into open Rudeneſs and ſcurrilous Expreſſion. <hi>What He! What ſuch an one! ſo contemptible a thing! it can never be!</hi> The news of another Mans ſucceſs, ferments and ſwells him into Rage and Fury. <hi>They bark like a
+<pb n="9" facs="tcp:101168:6"/>Dog,</hi> (ſays St. <hi>Auguſtin</hi>) <hi>and are pale in the face; they threaten with their Head, they wring their Hands, and gnaſh their Teeth. Nothing ſo ungrounded, if it be ill, that he will not ſay; nothing,</hi>
+               <note place="margin">Aug, <hi>Serm.</hi> 18.</note> 
+               <hi>that has the leaſt ap<g ref="char:EOLhyphen"/>pearance of Truth, that he will not aggravate.</hi>
+            </p>
+            <p>Or if theſe groſſer Tranſports are reſtrained, or intruſted only with his intimate Friends, yet the Diſtemper will appear, thro' all the various Diſguiſes of it. For,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Sometimes you may ſee it in his very Gratu<g ref="char:EOLhyphen"/>lations, and diſcern his Envy in his moſt kind expreſſions. <hi>Tho' it ſeems an eaſie matter,</hi> ſays St. <hi>Chryſoſtom, to rejoyce with them that do rejoyce, yet, in Truth, it is very difficult,</hi>
+               <note place="margin">Hom. 53. de Char.</note> 
+               <hi>and he muſt be a Man whoſe Mind is exerciſed in Vertue, that can ſincerely do it.</hi>
+            </p>
+            <p>For when with his Tongue he gives you joy, you may read his Trouble in his Face, in his un<g ref="char:EOLhyphen"/>eaſie manner and exotick Actions; in the rolling of his Eyes, in the convulſion of his Feet; in ſome involuntary Motion or other, in every part.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Sometimes he vents his angry Tumor in a pleaſing enarration of all the evil, or the darker part of your condition. <hi>Simplicius</hi> ſays of an En<g ref="char:EOLhyphen"/>vious Man, <hi>That he is an Enemy to every one that is happy; and therefore if he cannot deſtroy him, he will
+<pb n="10" facs="tcp:101168:7"/>at leaſt diſhonour, leſſen, and undervalue him, as much as he can.</hi>
+            </p>
+            <p>
+               <hi>He appears very well indeed,</hi> he will tell you, <hi>but no Man is happy in every part; his Age or his In<g ref="char:EOLhyphen"/>firmities, his Paſſions or his Troubles, his Croſſes or Miſcarriages, in theſe or thoſe particulars, are ſuch that I would not change Conditions with him.</hi> Nay, per<g ref="char:EOLhyphen"/>haps he will ſay, that <hi>He is ſorry for it too,</hi> but you may be ſure he diſſembles, for he never hangs ſo long upon the brighter ſide of his Af<g ref="char:EOLhyphen"/>fairs; he only touches upon that, that he may introduce the other, (which he loves to hear and ſpeak of) with the leſs ſuſpicion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Sometimes his Envy bubbles out in vain In<g ref="char:EOLhyphen"/>ſinuations of his own Deſerts. <hi>That he has en<g ref="char:EOLhyphen"/>deavoured, tho' he ſays it, to merit what others obtain; but his Simplicity, or his Modeſty, or his Ignorance of ſome kind of Arts, have kept him where he is; and if Fortune rule the World, he muſt have done. But there will come a Time</hi> — And thus, by a great many broken Expreſſions, you are to un<g ref="char:EOLhyphen"/>derſtand, that by how much he is not ſo happy as another, by ſo much he is injur'd; and that's ſome ſort of eaſe and ſatisfaction to him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Sometimes it lurks in a vain pretence of Self-denial, of a mortified Temper, and a contempt
+<pb n="11" facs="tcp:101168:7"/>of the World. <hi>Deſpicio Urbem! What I do not need, I do not Envy! Content's a Feaſt. Lord what a noiſe, what a duſt they make! How much happier am I that aim at nothing, that hope for nothing, that would not be troubled with any more than I have?</hi>
+            </p>
+            <p>Thus Envy ſhelters it ſelf under the Principles of Philoſophy, (as the moſt Sacred things are li<g ref="char:EOLhyphen"/>able to abuſe) whilſt they uſe them only as Ve<g ref="char:EOLhyphen"/>hicles of their Malice, to amuſe the Hearer, and diffuſe their Diſcontent with the greater Secreſie, and leſs reflection.</p>
+            <p>The truth of the matter moſt commonly is this; They could not have their Will, and now they are convinc'd, as they make you believe, that there was nothing in it, if they had obtain'd it. They cannot deſtroy your Fortune, or re<g ref="char:EOLhyphen"/>duce it to nothing <hi>in Fact,</hi> and therefore they pleaſe themſelves, by making it nothing <hi>in Truth,</hi> in Worth and Value.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sometimes they throw their <hi>Envy</hi> upon their <hi>Spleen,</hi> and then they think they may vent it freely, and without reflection upon themſelves; Com<g ref="char:EOLhyphen"/>plain, Revile, Arraign, Condemn, and be as Free and Witty with your Reputation as they pleaſe; and when they have done all the Miſchief they can, beg Pardon for their Freedom, and hope
+<pb n="12" facs="tcp:101168:8"/>you will aſcribe it to the ſourneſs of their Blood, and not believe 'tis their real Opinion or habi<g ref="char:EOLhyphen"/>tual humour.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Sometimes it appears under a Cloak of Piety and Religion. Becauſe a concern for the com<g ref="char:EOLhyphen"/>mon Good, and a deſire that Vertue may be rewarded, and Vice diſcouraged, are laudable Habits; therefore, as <hi>Plutarch</hi> obſerves, they vent their Malice under a Pretext of Vertue, and a Publick Spirit. <hi>It is a ſad thing,</hi> ſay they, <hi>to ob<g ref="char:EOLhyphen"/>ſerve how Affairs are managed. Come, come! the World was never made for the Wicked! we ſhall ſee, e're long, how the Mighty Ones are fallen,</hi> and then, <hi>The Meek ſhall inherit the Earth.</hi>
+            </p>
+            <p>And thus, by their envious Gloſſes, they pro<g ref="char:EOLhyphen"/>phane the Sacred Writings, and forge a Title to other Mens Eſtates.</p>
+            <p>And therefore, <hi>Laſtly, Envy</hi> will expreſs it ſelf as occaſion offers, in Rapine, Violence and Mur<g ref="char:EOLhyphen"/>ther.</p>
+            <p>It is certainly a Vice of the moſt bitter Nature. When Wiles and Projects would not do, <hi>Saul</hi> ſets his Servants, nay, <hi>Jonathan</hi> his Son, to Mur<g ref="char:EOLhyphen"/>ther <hi>David;</hi> theſe failing, he ſought to act the Villany himſelf. The <hi>Envy</hi> of <hi>Joſeph</hi>'s Brethren prompted them to kill him out of hand; but
+<pb n="13" facs="tcp:101168:8"/>
+               <hi>Reuben</hi>'s Vice was a little better natur'd, and he com<g ref="char:EOLhyphen"/>promis'd the matter, and only ſold him for a Slave.</p>
+            <p>Indeed, he that cannot bear the Proſperity of his Neighbour, would certainly reduce him if he could. And therefore the Envious are al<g ref="char:EOLhyphen"/>ways ripe for Miſchief: They bridle their Ma<g ref="char:EOLhyphen"/>lice, or vent it with as little noiſe as may be, when they are not able to hurt; but whenever occaſion offers, they bite like an Adder. When they act without reſtraint or fear, nothing can divert them. <hi>For Wrath is cruel, and Anger is out<g ref="char:EOLhyphen"/>ragious, but who can ſtand before Envy,</hi> Pro. 27.4.</p>
+            <p>Theſe are a few of the more notorious Me<g ref="char:EOLhyphen"/>thods, by which the Envious expreſs their Tem<g ref="char:EOLhyphen"/>per. And if we lay them altogether, and con<g ref="char:EOLhyphen"/>ſider them impartially, we cannot chooſe but have an ill opinion of the Vice.</p>
+            <p>For, I hope, by this time, it appears, that no<g ref="char:EOLhyphen"/>thing in the World is more unworthy of a Man of Senſe, of Truth or Honour.</p>
+            <p>For an Envious Man is a malicious Hypo<g ref="char:EOLhyphen"/>crite; if he ſhould appear as he is, he would be baniſh'd out of all Society; and therefore he dares not own his Quality, but lives in a diſguiſe, ſtu<g ref="char:EOLhyphen"/>dies to be wiſely ſpiteful, and hides his Rancour under every Cloak.</p>
+            <pb n="14" facs="tcp:101168:9"/>
+            <p>But alas! his Nature will appear, and his Villany will be detected. His Vice is very Fooliſh<g ref="char:EOLhyphen"/>neſs; it will expoſe and ruine him at the preſent, it will deſtroy and kill him in the end. For <hi>Envy ſlayeth the ſilly one.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And ſo I proceed, as I propos'd, in the <hi>Second Place,</hi> to conſider the truth of his Character, or how juſtly it is ſaid of an Envious Man, that he is a <hi>ſilly</hi> one. And this was the ſecond Head of Diſcourſe propoſed.</p>
+            <p>It is obſerved by ſome that the Particle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which we render <hi>for (for Envy ſlayeth the ſilly one)</hi> may be alſo rendred <hi>verè, juſtè, meritò,</hi> and ſo the vulgar <hi>Latin</hi> tranſlates it here, <hi>Verè parvulum oc<g ref="char:EOLhyphen"/>cidit invidia,</hi> which adds a mighty Emphaſis to the aſſertion of the Text, <hi>viz.</hi> That <hi>Envy</hi> ſlayeth the Envious Man, who is a ſilly one <hi>indeed,</hi> his Folly is extream, apparent, and indiſputable.</p>
+            <p>Wiſdom conſiſts in three particulars:</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> In a perfect Knowledge of our Happineſs, or what is proper for us to purſue, and what to ſhun.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> In a right Underſtanding of the fitteſt means, whereby we may attain the Good, and avoid the Evil.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> In a skilful application of thoſe means to their ends, that they may operate the moſt effectual<g ref="char:EOLhyphen"/>ly
+<pb n="15" facs="tcp:101168:9"/>towards the bringing our deſigns to paſs.</p>
+            <p>A Wiſe Man then is one who weighs, com<g ref="char:EOLhyphen"/>pares, and values things exactly; who governs his Paſſions, and keeps his Mind entirely free; who judges impartially, chuſes rationally, and purſues his Ends with diligence and proper Ap<g ref="char:EOLhyphen"/>plication: Who clears his Way of all Obſtructi<g ref="char:EOLhyphen"/>ons that ariſe from himſelf, and can avoid, as much as may be, ſuch as are not in his Power.</p>
+            <p>Now Folly is directly oppoſite to Wiſdom, and therefore if this be a true Account, or Character of a Wiſe Man, we cannot miſtake the notion of a <hi>Fool.</hi>
+            </p>
+            <p>A Fool then is one whoſe Underſtanding is prejudic'd, whoſe Judgment is not free; who is vern'd by his Paſſions, drawn into falſe Opini<g ref="char:EOLhyphen"/>ons, wild, unreaſonable Ends, and deſtructive Meaſures.</p>
+            <p>But ſuch a ſilly one as this is, is that of my Text; he endures and cheriſhes a Vice that blinds his Reaſon, and puts him out of all poſſibility of being happy.</p>
+            <p>Do but conſider how odious, how deſpicable, how deſerted ſuch Men are; how they loſe both their Intereſt and their Friends; and this alone is enough to manifeſt their Folly, and ſupport their Character.</p>
+            <pb n="16" facs="tcp:101168:10"/>
+            <p>No Man is ſelf-ſufficient, no Man is able to ſtand alone; we cannot be happy but by the Mediation, the good Will and Aſſiſtance of one another.</p>
+            <p>But an Envious Man is a common Nuiſance, that every one is offended with, and no Man can endure.</p>
+            <p>Indeed he hopes to be hid; it is the only Ma<g ref="char:EOLhyphen"/>lignity, as <hi>Plutarch</hi> obſerves, that no Man will own; but <hi>Envy</hi> is ſo rank a Poyſon, that it cor<g ref="char:EOLhyphen"/>rupts not one part only, but all the Man. Let him therefore gild over the bitterneſs of his Spirit as well as he can, it will taſte of the Principle, it will diſcover it ſelf in ſpite of Art.</p>
+            <p>And thus, ſilly Man! whilſt he deſigns to hurt his Neighbour, he deſtroys himſelf. His Spite and Indignation make him over-ſhoot all modeſt bounds. He is ſo impatient till you underſtand his Worth, and how contemptible thoſe are of whom he ſpeaks, that he thruſts it upon you, that he overloads you, and raiſes a prejudice a<g ref="char:EOLhyphen"/>gainſt himſelf.<note place="margin">Merito omni amico privari debes, eò quòd de nullo amicorum bono gaudere probaris. <hi>St. Aug.</hi>
+               </note> For every Man that is preſent (ſuch is the benignity of the Human Nature) is a Friend to him that is aſpers'd, and looks awry upon his Enemy. It is but natural to reflect, that he muſt
+<pb n="17" facs="tcp:101168:10"/>ſurely be a conſiderable Man,<note place="margin">Nemo ho<g ref="char:EOLhyphen"/>mini Con<g ref="char:EOLhyphen"/>tempto pertinaci<g ref="char:EOLhyphen"/>ter, nemo diligenter nocet. <hi>Sen.</hi>
+               </note> who is ſo indu<g ref="char:EOLhyphen"/>ſtriouſly vilified.</p>
+            <p>And thus the Dart that he ſhoots at his Neigh<g ref="char:EOLhyphen"/>bour, recoils upon himſelf. For there is ſuch a complication of Evil Qualities in Envy and De<g ref="char:EOLhyphen"/>traction; of Curioſity, Conceit, and Pride; of Medling, Judging, and Malicious Cenſure, as makes the Guilty nauſeous to all; and no Man knows but he may be the next, that ſhall come under his Laſh, and therefore every one deſpiſes and avoids him.</p>
+            <p>Or if theſe things ſeem to affect his Happineſs at too great a diſtance; if he could have Spirit enough to bear up againſt a general Contempt, againſt that Scorn and Neglect he muſt certainly meet with; yet his Vice it ſelf is a conſtant Mi<g ref="char:EOLhyphen"/>ſery that cannot by any means be ſhaken off; it is of ſo Peſtilent a Nature that it puts him out of all poſſibility of being happy, and makes him the moſt uneaſie Creature in the World.</p>
+            <p>No Being can be happy but in the way of his Nature. And therefore he that will graſp at that which is out of his Line, he that muſt have what he liſts, and will have all things go ac<g ref="char:EOLhyphen"/>cording to his Mind, or will be angry, is ſure to be always miſerable.</p>
+            <pb n="18" facs="tcp:101168:11"/>
+            <p>For the Goods of the World, of Body, Mind, and Fortune, are diſpenc'd in Meaſures and De<g ref="char:EOLhyphen"/>grees amongſt us all. No Man can command what he will, or hinder others as he pleaſes. No Man can be the beſt, or ſelf-ſufficient, or not wanting ſomething that another Man enjoys.</p>
+            <p>And therefore he that does not conſider his Condition ſimply, as it is in it ſelf, (and bring his Mind to a ſatisfaction in it) but with rela<g ref="char:EOLhyphen"/>tion and reſpect to other Perſons, ſhall never be eaſie whilſt he lives. If another Man's Eſtate will ſowre the enjoyment of his own, he muſt be unhappy till he has ingroſs'd the World. If he will not ſuffer others to be under the ſame poſſibilities of good Fortune with himſelf; if he muſt be diſtinct from the reſt of his kind, or neither endure himſelf nor them, he muſt of neceſſity be always Miſerable, for the World will never be at his Command.</p>
+            <p>But is not this a moſt horrible Infatuation,<note place="margin">O! Invide qui nun<g ref="char:EOLhyphen"/>quam qui<g ref="char:EOLhyphen"/>eſcere po<g ref="char:EOLhyphen"/>tes! an ig<g ref="char:EOLhyphen"/>noras quod om<g ref="char:EOLhyphen"/>nis malitia habet aliquam felicitatis umbram, ſed tu ipſa Invidia, nequiſſima peffis, totmentum ſine refrigerio, morbum ſine remedio, laborem ſine Reſpiratione, poenam ſine inter<g ref="char:EOLhyphen"/>miſſione, famem ſine ſaturitate, ſemper habere videris? <hi>Aug. Serm.</hi> 18.</note> a blindneſs upon the Mind? Is he not a <hi>ſilly one</hi> indeed? He is not a Fool in a ſingle Inſtance, but he has loſt his Underſtanding. It looks like
+<pb n="19" facs="tcp:101168:11"/>a Judgment of God upon a Man, a Puniſhment of Wickedneſs, rather than a Vice: For, as a Bird in a Net, he is always buſie, always angry; ſtriving, and fretting, and labouring in vain, till his Spirits are exhauſted, and he has work'd him<g ref="char:EOLhyphen"/>ſelf to Death.</p>
+            <p>And thus much for the Character of an En<g ref="char:EOLhyphen"/>vious Man, that he is a <hi>ſilly one.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> I proceed, as I propoſed, in the <hi>Third Place,</hi> to conſider the fatal effects of this fooliſh Vice, or how certainly it will deſtroy him. <hi>For Envy ſlayeth the ſilly one;</hi> it does not only expoſe him at the preſent, and make his Life uneaſie to him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Philoſopher calls it, but it deſtroys him utterly, and kills him in the end.</p>
+            <p>It affects his Body, vitiates his Mind, deſtroys his Soul, and ruines him in all Capacities.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>Firſt,</hi> It affects his Body.</p>
+            <p>It is not underſtood, that every Man that is Envious dies of Envy; but that the Diſtemper is Mortal, and every Man that labours under it, is in danger of Death: The cauſes are at work which naturally tend to produce the effect.</p>
+            <p>For there is nothing plainer than that the Paſ<g ref="char:EOLhyphen"/>ſions of the Mind have good or ill effects upon the Body, as they are managed. An eaſie chear<g ref="char:EOLhyphen"/>ful
+<pb n="20" facs="tcp:101168:12"/>ſteddineſs of Temper, contributes very much to the Vigour, Health, and Pleaſure of the Body; but a tetrical Humour, Envy, Peeviſhneſs, and Diſcontent, ferment and ſowre the Blood, pre<g ref="char:EOLhyphen"/>cipitate the motion of the Spirits, urge outragious Paſſions, fill the Mind with angry Thoughts, hinder Reſt, deſtroy our Appetites, and take a<g ref="char:EOLhyphen"/>way all Enjoyment, breed Grief and Melancholly, and end in a ſickly livid Look, in Laſſitude, Con<g ref="char:EOLhyphen"/>ſumption, and Deſpair. Nay, many times it affects the Head ſo far, that it makes the Envi<g ref="char:EOLhyphen"/>ous his own Deſtroyer.<note place="margin">Iſoc.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſays the Philoſopher. And upon theſe Accounts, it is expreſs'd in Scripture by a <hi>Fire</hi> that <hi>melts him,</hi> (Pſal. 112.10.) by <hi>a Worm that gnaws him.</hi> by <hi>a Canker that frets him,</hi> (Pſal. 37.1.) by <hi>Rot<g ref="char:EOLhyphen"/>tenneſs in his Bones,</hi> (Tarmes Oſſium) <hi>that con<g ref="char:EOLhyphen"/>ſumes and waſtes him,</hi> (Prov. 14.30.) Thus Envy is a lingring Death, and he that is troubled with it has his Mortal Wound about him. It is a Poyſon that is ſlow but ſure.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And as Envy hurts the Body, ſo alſo in the <hi>Second Place,</hi> it vitiates the Mind, and deſtroys the <hi>Moral Life.</hi> Envy is the Corruption of the Human Nature, a baſe degeneracy into the be<g ref="char:EOLhyphen"/>ſtial State.</p>
+            <pb n="21" facs="tcp:101168:12"/>
+            <p>For what is the diſtinction between <hi>Us Men,</hi> and <hi>Brutes,</hi> but the Social Vertues? but Right and Property? or the gratifying of our ſelves with reſpect and ſafety to the intereſt of others? Envy therefore changes our very Nature, and ſuperinduces another, but a moſt horrid, Form upon us.</p>
+            <p>When Univerſal Juſtice and Mortality are laid aſide, there is not in the World ſo miſchievous a Being as Man. When the reſtraints of Virtue are loſened, or put off, he is by ſo much the moſt Savage Creature, as Reaſon abuſed; that is, reſolv'd into a ſelfiſh, ſpiteful Cunning, is the keeneſt, and the moſt able inſtrument of Miſchief.</p>
+            <p>Thus Envy never is alone; it is not a ſingle Vice, but a radical Evil, that diffuſes its Malig<g ref="char:EOLhyphen"/>nity into every part, and expels all Virtue out of the Soul. <hi>Omnes virtutes concremat,</hi> ſays St. <hi>Auguſtine, Omnia bona diſſipat, omnia mala generat.</hi>
+               <note place="margin">
+                  <hi>Ser.</hi> 18.</note> And, <hi>Where Envy and Strife are, there is Confuſion and every Evil Work,</hi> ſays the Apoſtle St. <hi>James.</hi>
+            </p>
+            <p>And if Envy diveſts a Man of his Virtue and his Reaſon, it muſt of neceſſity deſtroy his <hi>Soul</hi> too; and thus it <hi>ſlayeth the ſilly one,</hi> in all his Capacities of Suffering.</p>
+            <pb n="22" facs="tcp:101168:13"/>
+            <p>Envy is more directly contrary to the Nature of God, than any other Vice; more diametri<g ref="char:EOLhyphen"/>cally oppoſite to <hi>Love and Goodneſs,</hi> which are his very Definition, for <hi>God is Love,</hi> 1 <hi>John</hi> 4.8.</p>
+            <p>Where then will the Envious Man appear, <hi>who has defac'd the Image of God upon his Soul, and turn'd the Laws of his Nature off the Hinges,</hi> as St. <hi>Chryſoſtom,</hi> in one of his Homilies, expreſſes it.</p>
+            <p>Or if he be a Chriſtian, as we all are, it is ſo much the worſe; for Chriſtianity condemns him utterly; he is a Scandal to the Goſpel, and ought to caſt off the Profeſſion of it.</p>
+            <p>For Chriſtianity is founded in Love; and our Saviour was introduc'd by the Heavenly Choir, with, <hi>Peace on Earth, Good Will to Men.</hi> And what was the Deſign of his Glorious Appearance, but to Reconcile us to God, to skreen us from his Wrath, and eſtabliſh Love and Amity in the World? And what was his Doctrine that he taught us? Was it not <hi>To Love our Neighbour as our ſelves?</hi> Was it not to <hi>Learn of Him, to be Meek and lowly in Mind,</hi> and not to affect applauſe, ſu<g ref="char:EOLhyphen"/>periority, or the higheſt Place?</p>
+            <p>This then is Chriſtianity, that we wiſh well to all Mankind, and are content with our own
+<pb n="23" facs="tcp:101168:13"/>Condition; that we ſympathize with our Neigh<g ref="char:EOLhyphen"/>bour, <hi>as Members one of another;</hi>
+               <note place="margin">Rom. 12.</note> that <hi>we Rejoyce with them that do Rejoyce, and Mourn with them that Mourn;</hi> that <hi>we be not high-minded,</hi> but apt <hi>to pre<g ref="char:EOLhyphen"/>ferr one another in Honour: that we think no Evil, that we ſpeak no Evil of any Man;</hi> but that we <hi>walk according to the Goſpel, and not in Strife and Envying.</hi>
+            </p>
+            <p>This is the Life and Spirit of our Religion; and therefore Envy is oppoſed to Chriſtianity, and repreſented as a Gentile, Heathen Diſpoſi<g ref="char:EOLhyphen"/>tion, (1 <hi>Cor.</hi> 3.3.) and the Envious are ſaid to be <hi>Enemies, and at Enmity with God,</hi> St. <hi>James</hi> 4.5, 6, <hi>&amp;c.</hi> and that <hi>they ſhall never Inherit the Kingdom of Heaven,</hi> Gal. 5.21. No! to that Spirit, without all diſpute, they muſt go, and with him they ſhall live, whoſe Image they bear, and who acted them here on Earth. He has rooted out of his Soul whatſoever was Divine, and now his Spirit is removed ſo far from God, that it can never be united to him, for <hi>He that Loves not, knows not God.</hi>
+            </p>
+            <p>Thus Envy is a Mark upon a Man; it is the effect of a <hi>Reprobate Mind,</hi> and a conſignation of him to eternal ruine, <hi>Rom.</hi> 1.29.</p>
+            <p>And thus, as briefly as I could, I have diſcuſs'd the <hi>Nature,</hi> the <hi>Character,</hi> and the <hi>Effects</hi> of Envy.</p>
+            <pb n="24" facs="tcp:101168:14"/>
+            <p>And do we yet believe the Scriptures? Do we allow the Propoſition? Are we convinc'd in earneſt that Envy is a fooliſh, and a deſtructive Vice? I am ſure we may, for it cannot be re<g ref="char:EOLhyphen"/>preſented ſo deform'd, ſo fatal, as indeed it is.</p>
+            <p>Would they not then, whoſe Tempers are a little tinctured with it, be delivered of it? Would they not return again to the eaſie chear<g ref="char:EOLhyphen"/>fulneſs, and candor of the Human Nature? 'tis never too late; Reſolution, with a due applica<g ref="char:EOLhyphen"/>tion of means, will effectually cure the Evil.</p>
+            <p>Be pleaſed but to obſerve theſe following Rules, and you ſhall never be troubled with the Diſtemper more.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> And this was the <hi>Fourth</hi> and laſt particular I propoſed to conſider, <hi>viz. The Methods of Re<g ref="char:EOLhyphen"/>covery.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> And, in the <hi>Firſt Place,</hi> he that would be free from Envy, muſt endeavour to deſerve, as well as may be, both of God and Man.</p>
+            <p>True Vertue gives a Man an Humble Opi<g ref="char:EOLhyphen"/>nion of himſelf; acquaints him with his own Defects, or what he is not, as well as what he is. It gives him ſuch a ſolid Peace, as he would not loſe to gain the World. It enlarges his Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="25" facs="tcp:101168:14"/>and makes him leſs ſollicitous about Re<g ref="char:EOLhyphen"/>wards, calm and eaſie under any Diſappoint<g ref="char:EOLhyphen"/>ment. It is Vertue only that can ſubdue our Paſſions; but a Spirit <hi>truly Good,</hi> will become, <hi>inſenſibly,</hi> the Maſter of it ſelf.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Again, If you would be free from Envy, you muſt bring your Mind to a good Opinion of your own Condition.</p>
+            <p>The Imperfection of our preſent State, or our Capacity of enjoying a great deal more than we can have here, diſpoſe us to a continual de<g ref="char:EOLhyphen"/>ſire of that which we have not, and a loathing of that which we have; or to ſet a greater va<g ref="char:EOLhyphen"/>lue upon the Poſſeſſions of others, and leſs upon our own than they deſerve.</p>
+            <p>But we ſhall never be clear of Envy till we have diſciplin'd our Minds into a better Opini<g ref="char:EOLhyphen"/>on. For that which we eagerly deſire, we ſhall be angry if we don't obtain. He then that would be eaſie in his Mind, muſt govern his De<g ref="char:EOLhyphen"/>ſires, and make the beſt of what he has: He muſt be glad that he enjoys ſo many things, and that he needs, or wants, ſo few.</p>
+            <p>There is, upon the matter, an equal deſtri<g ref="char:EOLhyphen"/>bution of <hi>Good.</hi> If one has Riches, another has Health; if one has Honour, another has Wiſdom;
+<pb n="26" facs="tcp:101168:15"/>and no Man's Caſe is either all Evil, or all Good. He therefore who would be free from Envy, muſt turn his Eyes within. We live amongſt innumerable Contingencies; we cannot have <hi>all,</hi> or what we will: And therefore accept of your Lot, and be thankful that it is no worſe,<note place="margin">Sic ver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Invidiam ef<g ref="char:EOLhyphen"/>fugies: Si te non ingeſ<g ref="char:EOLhyphen"/>ſeris oculis, ſi bona tua non jactaveris, ſi ſcieris in ſinu gaudere. <hi>Sen.</hi>
+               </note> or there can be no end of your Miſery. <hi>You cannot be a Lyon and Lap-Dog, a Soldier and a Philoſopher,</hi> ſays <hi>Plutarch,</hi> Sparta <hi>is your Province, look well to that, and acquit your ſelf as you ſhould do.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Thirdly</hi> and <hi>Laſtly,</hi> He that would be free from Envy, muſt wean his Affections from the World, and learn to value it at no higher a rate than it deſerves.</p>
+            <p>Glittering appearances poſſeſs our Minds with vain Imaginations, and delude us into falſe O<g ref="char:EOLhyphen"/>pinions; theſe ſtimulate Deſire, and that pro<g ref="char:EOLhyphen"/>duces Diſcontent and Envy.</p>
+            <p>He then that would be eaſie and quiet in his Mind, muſt look upon the World in a better Light. He muſt conſider what it is not, as well as what it is; or that the Poſſeſſion of the Uni<g ref="char:EOLhyphen"/>verſe, if he could Command it, would not re<g ref="char:EOLhyphen"/>compence the Miſery, the Weight, and Anguiſh,
+<pb n="27" facs="tcp:101168:15"/>that Envy brings upon us. <hi>All Earthly things,</hi> ſays <hi>Seneca, are trivial alike; in their outward Face; indeed, they ſeem to differ, but, in truth, they are equally vain;</hi> they are hardly worth our care, but much below our Envy.</p>
+            <p>
+               <hi>USE.</hi>
+            </p>
+            <p>What then remains, but that we endeavour to ſubdue our Paſſions, to Maſter our Spirits, and live according to Reaſon in the World.</p>
+            <p>He is certainly the Wiſeſt Man, who paſſes his Life with calmneſs and tranquility of Mind; with a prudent manly Steddineſs and Compoſure: Who values things according to Weight and Mea<g ref="char:EOLhyphen"/>ſure, and purſues his Ends in a due proportion; who keeps his Happineſs within his Power, and is not a Slave to things without him.</p>
+            <p>And he's the beſt Chriſtian, without Diſpute, who comes the neareſt to the Pattern of the <hi>Holy Jeſus;</hi> who has imbib'd, and is united to the Laws of his Religion; who ſhines in the <hi>Ornament of a Meek and quiet Spirit;</hi> who is re<g ref="char:EOLhyphen"/>ſign'd intirely to the Will of God, and ſatisfied in all Events.</p>
+            <p>What ſincere and ſolid Joy, what Honour in the World, what glory to God, what regard to the Goſpel, would ſuch a Chriſtian Temper
+<pb n="28" facs="tcp:101168:16"/>cauſe? What an eaſie Paſſage thro' all the va<g ref="char:EOLhyphen"/>rious Fortunes of this preſent Life does it pro<g ref="char:EOLhyphen"/>cure? till we arrive at laſt to a perfect, ſettled State, where we ſhall be filled as full as we can hold; where no Emulation, Envy, or Deſpair can enter; where there will be an eternal ſym<g ref="char:EOLhyphen"/>pathy between God and Us; where one only Principle, one Motion, one Deſire, one Life, one Joy, ſhall act us all for ever. <hi>To which may God,</hi> &amp;c. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="by_the_same_author">
+            <head>Books Written by the ſame Author, and Printed for <hi>Walter Kettilby.</hi>
+            </head>
+            <list>
+               <item>1. A Dialogue between a Miniſter and his Parſhioner, concerning the <hi>Lord's Supper.</hi> Principally deſigned for the Inſtruction of thoſe that never yet received. To which are annexed three ſeveral Diſcourſes, of <hi>Love</hi> to <hi>God,</hi> to our <hi>Neighbour,</hi> and to our very <hi>Enemies,</hi> 8 <hi>vo.</hi>
+               </item>
+               <item>2. A Sermon Preach'd before the King at <hi>Windſor, June,</hi> 13. 1680. on <hi>Matth.</hi> 6. 26.</item>
+               <item>3. A Sermon Preach'd before the Lord Mayor, <hi>Feb.</hi> 5. 1681. on <hi>Pſal.</hi> 119.165.</item>
+               <item>4. The Liberty of Humane Nature Diſcuſs'd, Stated, and Limited; in a Sermon on 1 <hi>Cor.</hi> 6.12.</item>
+               <item>5. A Sermon Preach'd before the King and Queen at <hi>White-Hall, Jan.</hi> 19. 1689. on <hi>Prov.</hi> 22.4.</item>
+               <item>6. A Sermon Preach'd before the Queen at <hi>White-Hall, Jan.</hi> 24. 1690. on <hi>Tit.</hi> 2.10.</item>
+               <item>7. A Sermon Preach'd before the King and Queen at <hi>White-Hall,</hi> on <hi>Sunday Jan.</hi> 15. 1692. on <hi>Iſaiah</hi> 57.21.</item>
+            </list>
+            <p>Theſe ſeven by the Reverend <hi>J. Lambe,</hi> D. D.</p>
+            <list>
+               <item>Mr. <hi>Tho. Lambe</hi>'s Stop to the Courſe of Separation, 8 <hi>vo.</hi>
+               </item>
+               <item>—'s Freſh Suit againſt Independency, 8 <hi>vo.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:101168:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
